@@ -50,8 +50,8 @@
     
     "id": 5,
     "question_img": "Chemistry/Functional/function_05.png",
-    "question_text": "1. Hydrochloric acid + sodium hydroxide → Sodium chloride + water\n2. Nitric acid + sodium hydroxide → Sodium nitrate + water\n3. Sulphuric acid + sodium hydroxide → Sodium sulphate + water",
-    "answer": "$6.00 and $15.00",
+    "question_text": "",
+    "answer": "1. Hydrochloric acid + sodium hydroxide → Sodium chloride + water\n2. Nitric acid + sodium hydroxide → Sodium nitrate + water\n3. Sulphuric acid + sodium hydroxide → Sodium sulphate + water",
     "math_type": "",
     "math_level": "",
     "grade_level": "",
