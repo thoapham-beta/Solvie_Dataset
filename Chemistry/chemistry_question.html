@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Question Viewer - Chemistry Problems Collection</title>
+  <title>Question Viewer - Math Problems Collection</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <style>
     :root {
@@ -326,7 +326,7 @@
 <body>
   <header>
     <h1><i class="fas fa-graduation-cap"></i> Question Viewer</h1>
-    <p class="subtitle">Chemistry Problems Collection</p>
+    <p class="subtitle">Math Problems Collection</p>
   </header>
   
   <div class="tabs">
@@ -369,6 +369,7 @@
 
   <script>
     // Embedded JSON data
+    
     const allQuestions = [
   {
     
@@ -421,8 +422,8 @@
     
     "id": 5,
     "question_img": "Chemistry/Functional/function_05.png",
-    "question_text": "1. Hydrochloric acid + sodium hydroxide → Sodium chloride + water\n2. Nitric acid + sodium hydroxide → Sodium nitrate + water\n3. Sulphuric acid + sodium hydroxide → Sodium sulphate + water",
-    "answer": "$6.00 and $15.00",
+    "question_text": "",
+    "answer": "1. Hydrochloric acid + sodium hydroxide → Sodium chloride + water\n2. Nitric acid + sodium hydroxide → Sodium nitrate + water\n3. Sulphuric acid + sodium hydroxide → Sodium sulphate + water",
     "math_type": "",
     "math_level": "",
     "grade_level": "",
@@ -686,7 +687,10 @@
     "difficulty_level": "",
     "note": ""
   }
-];
+]
+;
+    document.addEventListener('DOMContentLoaded', () => {
+      // DOM elements
       const tabButtons = document.querySelectorAll('.tab-btn');
       const tabContents = document.querySelectorAll('.tab-content');
       const questionsContainer = document.querySelector('.questions-container');
