@@ -24,7 +24,7 @@ try {
     {
     
     "id": 5,
-    "question_img": "Chemistry/Functional/function_05.png",
+    "question_img": "Functional/function_05.png",
     "question_text": "",
     "answer": "1. Hydrochloric acid + sodium hydroxide → Sodium chloride + water\n2. Nitric acid + sodium hydroxide → Sodium nitrate + water\n3. Sulphuric acid + sodium hydroxide → Sodium sulphate + water",
     "math_type": "",
@@ -36,7 +36,7 @@ try {
   {
     
     "id": 6,
-    "question_img": "Chemistry/Functional/function_06.png",
+    "question_img": "Functional/function_06.png",
     "question_text": "",
     "answer": "B",
     "math_type": "",
@@ -48,7 +48,7 @@ try {
   {
     
     "id": 7,
-    "question_img": "Chemistry/Functional/function_07.png",
+    "question_img": "Functional/function_07.png",
     "question_text": "",
     "answer": "c. opposite charge and smaller mass",
     "math_type": "",
@@ -66,7 +66,7 @@ const htmlContent = `<!DOCTYPE html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Question Viewer - Math Problems Collection</title>
+  <title>Question Viewer - Chemistry Problems Collection</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <style>
     :root {
