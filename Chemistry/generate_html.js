@@ -389,7 +389,7 @@ const htmlContent = `<!DOCTYPE html>
 <body>
   <header>
     <h1><i class="fas fa-graduation-cap"></i> Question Viewer</h1>
-    <p class="subtitle">Math Problems Collection</p>
+    <p class="subtitle">Chemistry Problems Collection</p>
   </header>
   
   <div class="tabs">
