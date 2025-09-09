@@ -27,8 +27,8 @@ try {
     "question_img": "Functional/function_05.png",
     "question_text": "",
     "answer": "1. Hydrochloric acid + sodium hydroxide → Sodium chloride + water\n2. Nitric acid + sodium hydroxide → Sodium nitrate + water\n3. Sulphuric acid + sodium hydroxide → Sodium sulphate + water",
-    "math_type": "",
-    "math_level": "",
+    "chemistry_type": "",
+    "chemistry_level": "",
     "grade_level": "",
     "difficulty_level": "",
     "note": ""
@@ -39,8 +39,8 @@ try {
     "question_img": "Functional/function_06.png",
     "question_text": "",
     "answer": "B",
-    "math_type": "",
-    "math_level": "",
+    "chemistry_type": "",
+    "chemistry_level": "",
     "grade_level": "Grade 8",
     "difficulty_level": "",
     "note": ""
@@ -51,8 +51,8 @@ try {
     "question_img": "Functional/function_07.png",
     "question_text": "",
     "answer": "c. opposite charge and smaller mass",
-    "math_type": "",
-    "math_level": "",
+    "chemistry_type": "",
+    "chemistry_level": "",
     "grade_level": "Grade 8",
     "difficulty_level": "",
     "note": ""
@@ -550,15 +550,15 @@ const htmlContent = `<!DOCTYPE html>
                 </div>
                 <div class="detail-item">
                   <span class="detail-label">
-                    <i class="fas fa-calculator"></i> Math Type:
+                    <i class="fas fa-calculator"></i> chemistry Type:
                   </span>
-                  <span class="detail-value">\${question.math_type || 'Not specified'}</span>
+                  <span class="detail-value">\${question.chemistry_type || 'Not specified'}</span>
                 </div>
                 <div class="detail-item">
                   <span class="detail-label">
-                    <i class="fas fa-layer-group"></i> Math Level:
+                    <i class="fas fa-layer-group"></i> chemistry Level:
                   </span>
-                  <span class="detail-value">\${question.math_level || 'Not specified'}</span>
+                  <span class="detail-value">\${question.chemistry_level || 'Not specified'}</span>
                 </div>
                 <div class="detail-item">
                   <span class="detail-label">
@@ -598,7 +598,7 @@ const htmlContent = `<!DOCTYPE html>
         if (isNaN(difficultyValue)) return '';
         
         const stars = [];
-        for (let i = 0; i < Math.min(difficultyValue, 5); i++) {
+        for (let i = 0; i < chemistry.min(difficultyValue, 5); i++) {
           stars.push('<i class="fas fa-star"></i>');
         }
         

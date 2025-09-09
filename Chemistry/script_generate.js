@@ -39,8 +39,8 @@ function generateJSONFromFiles(rootDir = '.') {
       question_img: path.relative(rootDir, file),
       question_text: '',
       answer: '',
-      math_type: '',
-      math_level: '',
+      chemistry_type: '',
+      chemistry_level: '',
       grade_level: '',
       difficulty_level: '',
       note: ''
