@@ -21,37 +21,37 @@ try {
   
   // Fallback to sample data if file doesn't exist
   jsonData = [
-    {
+   {
     
     "id": 5,
-    "question_img": "Functional/function_05.png",
+    "question_img": "Chemistry/Functional/function_05.png",
     "question_text": "",
     "answer": "1. Hydrochloric acid + sodium hydroxide → Sodium chloride + water\n2. Nitric acid + sodium hydroxide → Sodium nitrate + water\n3. Sulphuric acid + sodium hydroxide → Sodium sulphate + water",
-    "chemistry_type": "",
-    "chemistry_level": "",
-    "grade_level": "",
-    "difficulty_level": "",
+    "chemistry_type": "Acid-Base Neutralisation",
+    "chemistry_level": "Intermediate",
+    "grade_level": "Grade 9",
+    "difficulty_level": "3",
     "note": ""
   },
   {
     
     "id": 6,
-    "question_img": "Functional/function_06.png",
+    "question_img": "Chemistry/Functional/function_06.png",
     "question_text": "",
     "answer": "B",
-    "chemistry_type": "",
-    "chemistry_level": "",
+    "chemistry_type": "Multiple Choice (Unknown topic)",
+    "chemistry_level": "Basic",
     "grade_level": "Grade 8",
-    "difficulty_level": "",
+    "difficulty_level": "1",
     "note": ""
   },
   {
     
     "id": 7,
-    "question_img": "Functional/function_07.png",
+    "question_img": "Chemistry/Functional/function_07.png",
     "question_text": "",
     "answer": "c. opposite charge and smaller mass",
-    "chemistry_type": "",
+    "chemistry_type": "Atomic Structure (Proton/Electron properties)",
     "chemistry_level": "",
     "grade_level": "Grade 8",
     "difficulty_level": "",
