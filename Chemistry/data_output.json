@@ -5,10 +5,10 @@
     "question_img": "Functional/function_01.png",
     "question_text": "",
     "answer": "pH = 7",
-    "chemitry_type": "",
-    "chemistry_level": "",
+    "chemitry_type": "Acid-Base (pH)",
+    "chemistry_level": "Basic",
     "grade_level": "Grade 8",
-    "difficulty_level": "",
+    "difficulty_level": "1",
     "note": ""
   },
   {
@@ -17,10 +17,10 @@
     "question_img": "Chemistry/Functional/function_02.png",
     "question_text": "",
     "answer": "A. Ammonia, blood, milk, orange juice",
-    "chemistry_type": "",
-    "chemistry_level": "",
+    "chemistry_type": "Acid-Base (Everyday examples)",
+    "chemistry_level": "Basic",
     "grade_level": "Grade 8",
-    "difficulty_level": "",
+    "difficulty_level": "2",
     "note": ""
   },
   {
@@ -29,10 +29,10 @@
     "question_img": "Chemistry/Functional/function_03.png",
     "question_text": "",
     "answer": "Calcium carbonate + Hydrochloric acid → Calcium chloride + Carbon dioxide + Water",
-    "chemistry_type": "",
-    "chemistry_level": "",
+    "chemistry_type": "Chemical Reactions (Acid + Carbonate)",
+    "chemistry_level": "Basic",
     "grade_level": "Grade 8",
-    "difficulty_level": "",
+    "difficulty_level": "2",
     "note": ""
   },
   {
@@ -40,10 +40,10 @@
     "question_img": "Chemistry/Functional/function_04.png",
     "question_text": "",
     "answer": "Each group in the periodic table contains elements that have similar properties. The atomic number gives the number of protons that an element contains. The lightest element is hydrogen (H) which has an atomic number of one. The atomic number of oxygen is eight. Sodium (Na) and potassium (K) are two very reactive metals. Iron (Fe) and nickel (Ni) are two of the magnetic metals. The most reactive non-metals are called the halogens. The noble gases are very unreactive. Magnesium (Mg) and calcium (Ca) are both in group two of the periodic table. Nitrogen (N) and phosphorus (P) are both in group five of the periodic table.",
-    "chemistry_type": "",
-    "chemistry_level": "",
+    "chemistry_type": "Periodic Table & Properties",
+    "chemistry_level": "Basic",
     "grade_level": "Grade 8",
-    "difficulty_level": "",
+    "difficulty_level": "2",
     "note": ""
   },
   {
@@ -52,10 +52,10 @@
     "question_img": "Chemistry/Functional/function_05.png",
     "question_text": "",
     "answer": "1. Hydrochloric acid + sodium hydroxide → Sodium chloride + water\n2. Nitric acid + sodium hydroxide → Sodium nitrate + water\n3. Sulphuric acid + sodium hydroxide → Sodium sulphate + water",
-    "chemistry_type": "",
-    "chemistry_level": "",
-    "grade_level": "",
-    "difficulty_level": "",
+    "chemistry_type": "Acid-Base Neutralisation",
+    "chemistry_level": "Intermediate",
+    "grade_level": "Grade 9",
+    "difficulty_level": "3",
     "note": ""
   },
   {
@@ -64,10 +64,10 @@
     "question_img": "Chemistry/Functional/function_06.png",
     "question_text": "",
     "answer": "B",
-    "chemistry_type": "",
-    "chemistry_level": "",
+    "chemistry_type": "Multiple Choice (Unknown topic)",
+    "chemistry_level": "Basic",
     "grade_level": "Grade 8",
-    "difficulty_level": "",
+    "difficulty_level": "1",
     "note": ""
   },
   {
@@ -76,7 +76,7 @@
     "question_img": "Chemistry/Functional/function_07.png",
     "question_text": "",
     "answer": "c. opposite charge and smaller mass",
-    "chemistry_type": "",
+    "chemistry_type": "Atomic Structure (Proton/Electron properties)",
     "chemistry_level": "",
     "grade_level": "Grade 8",
     "difficulty_level": "",
@@ -88,9 +88,9 @@
     "question_img": "Chemistry/Functional/function_08.png",
     "question_text": "",
     "answer": "a) Lithium + water → lithium hydroxide + hydrogen\nb) Sodium + water → sodium hydroxide + hydrogen\nc) Potassium + water → potassium hydroxide + hydrogen",
-    "chemistry_type": "",
-    "chemistry_level": "",
-    "grade_level": "",
+    "chemistry_type": "Reactivity of Group 1 with Water",
+    "chemistry_level": "Intermediate",
+    "grade_level": "Grade 9",
     "difficulty_level": "4",
     "note": ""
   },
@@ -99,10 +99,10 @@
     "question_img": "Chemistry/Functional/function_09.png",
     "question_text": "",
     "answer": "b. False",
-    "chemistry_type": "",
-    "chemistry_level": "",
+    "chemistry_type": "True/False (Concept check)",
+    "chemistry_level": "Basic",
     "grade_level": "Grade 8",
-    "difficulty_level": "",
+    "difficulty_level": "1",
     "note": ""
   },
   {
@@ -110,10 +110,10 @@
     "question_img": "Chemistry/Image input/hand_writing_01.png",
     "question_text": "",
     "answer": "Na",
-    "chemistry_type": "",
-    "chemistry_level": "",
+    "chemistry_type": "Element Identification (Na)",
+    "chemistry_level": "Basic",
     "grade_level": "Grade 8",
-    "difficulty_level": "",
+    "difficulty_level": "1",
     "note": ""
   },
   {
@@ -121,10 +121,10 @@
     "question_img": "Chemistry/Functional/function_10.png",
     "question_text": "",
     "answer": "D. All",
-    "chemistry_type": "",
-    "chemistry_level": "",
+    "chemistry_type": "MCQ – General Chemistry",
+    "chemistry_level": "Intermediate",
     "grade_level": "Grade 10",
-    "difficulty_level": "",
+    "difficulty_level": "2",
     "note": ""
   },
   {
@@ -132,10 +132,10 @@
     "question_img": "Chemistry/Functional/function_11.png",
     "question_text": "",
     "answer": "The percentage of aluminium in aluminium exide: 53%",
-    "chemistry_type": "",
-    "chemistry_level": "",
-    "grade_level": "Grade",
-    "difficulty_level": "",
+    "chemistry_type": "Stoichiometry / Percentage Composition",
+    "chemistry_level": "Intermediate",
+    "grade_level": "Grade 10",
+    "difficulty_level": "3",
     "note": ""
   },
   {
@@ -143,9 +143,9 @@
     "question_img": "Chemistry/Functional/function_13.png",
     "question_text": "",
     "answer": "10 moles of gas",
-    "chemistry_type": "",
-    "chemistry_level": "",
-    "grade_level": "Grade",
+    "chemistry_type": "Mole Concept (Gas Volume/Moles)",
+    "chemistry_level": "Intermediate",
+    "grade_level": "Grade 10",
     "difficulty_level": "3",
     "note": ""
   },
@@ -154,10 +154,10 @@
     "question_img": "Chemistry/Functional/function_14.png",
     "question_text": "",
     "answer": "Experiment I: Pb²⁺, Cl⁻; Experiment II: H⁺ (hoặc H₃O⁺), Cl⁻, OH⁻ ",
-    "chemistry_type": "",
-    "chemistry_level": "",
-    "grade_level": "Grade",
-    "difficulty_level": "",
+    "chemistry_type": "Electrolytes / Ion Identification",
+    "chemistry_level": "Intermediate",
+    "grade_level": "Grade 11",
+    "difficulty_level": "3",
     "note": ""
   },
   {
@@ -165,10 +165,10 @@
     "question_img": "Chemistry/Functional/function_15.png",
     "question_text": "",
     "answer": "The molecular formula shows the actual number of atoms of each element in a molecule. For butene, it contains 4 carbon atoms and 8 hydrogen atoms per molecule.",
-    "chemistry_type": "Algbra",
-    "chemistry_level": "",
-    "grade_level": "Grade ",
-    "difficulty_level": "",
+    "chemistry_type": "Organic Chemistry (Molecular Formula)",
+    "chemistry_level": "Intermediate",
+    "grade_level": "Grade 11",
+    "difficulty_level": "3",
     "note": ""
   },
   {
@@ -176,10 +176,10 @@
     "question_img": "Chemistry/Functional/function_16.png",
     "question_text": "",
     "answer": "(a) Hydrocarbon = compound containing only carbon and hydrogen.\n(b) Empirical formula of X = CH₂\n(c) Relative molecular mass = 84",
-    "chemistry_type": "",
-    "chemistry_level": "",
-    "grade_level": "Grade",
-    "difficulty_level": "",
+    "chemistry_type": "Organic Chemistry (Hydrocarbon, Empirical Formula)",
+    "chemistry_level": "Intermediate",
+    "grade_level": "Grade 11",
+    "difficulty_level": "3",
     "note": ""
   },
   {
@@ -187,10 +187,10 @@
     "question_img": "Chemistry/Functional/function_17.png",
     "question_text": "",
     "answer": "C4​H8​+6O2​→4CO2​+4H2​O",
-    "chemistry_type": "",
-    "chemistry_level": "",
-    "grade_level": "Grade",
-    "difficulty_level": "",
+    "chemistry_type": "Organic Combustion Reaction",
+    "chemistry_level": "Intermediate",
+    "grade_level": "Grade 11",
+    "difficulty_level": "3",
     "note": ""
   },
   {
@@ -198,10 +198,10 @@
     "question_img": "Chemistry/Functional/function_18.png",
     "question_text": "",
     "answer": "i. R:2,8,1\nii. Metal: R (và T), Non-metal: S",
-    "chemistry_type": "",
-    "chemistry_level": "",
-    "grade_level": "Grade",
-    "difficulty_level": "",
+    "chemistry_type": "Atomic Structure / Periodic Table",
+    "chemistry_level": "Intermediate",
+    "grade_level": "Grade 10",
+    "difficulty_level": "2",
     "note": ""
   },
   {
@@ -209,10 +209,10 @@
     "question_img": "Chemistry/Functional/function_19.png",
     "question_text": "",
     "answer": "(i)Mistake: The iron spoon is connected to the positive terminal instead of the negative terminal.\n(ii)Alteration: Connect the iron spoon to the negative terminal and the silver metal to the positive terminal of the battery.",
-    "chemistry_type": "",
-    "chemistry_level": "",
-    "grade_level": "Grade",
-    "difficulty_level": "",
+    "chemistry_type": "Electrochemistry (Electroplating setup)",
+    "chemistry_level": "Intermediate",
+    "grade_level": "Grade 11",
+    "difficulty_level": "4",
     "note": ""
   },
   {
@@ -220,10 +220,10 @@
     "question_img": "Chemistry/Functional/function_20.png",
     "question_text": "",
     "answer": "(i) Standard solution: a solution of accurately known concentration.\n(ii) End point: the stage in titration where the indicator shows neutralisation is complete.",
-    "chemistry_type": "",
-    "chemistry_level": "",
-    "grade_level": "Grade",
-    "difficulty_level": "",
+    "chemistry_type": "Titration Concepts",
+    "chemistry_level": "Intermediate",
+    "grade_level": "Grade 11",
+    "difficulty_level": "3",
     "note": ""
   },
   {
@@ -231,10 +231,10 @@
     "question_img": "Chemistry/Functional/function_21.png",
     "question_text": "",
     "answer": "B",
-    "chemistry_type": "",
-    "chemistry_level": "",
-    "grade_level": "Grade",
-    "difficulty_level": "",
+    "chemistry_type": "MCQ – General Chemistry",
+    "chemistry_level": "Basic",
+    "grade_level": "Grade 10",
+    "difficulty_level": "1",
     "note": ""
   },
   {
@@ -242,10 +242,10 @@
     "question_img": "Chemistry/Functional/function_22.png",
     "question_text": "",
     "answer": "B",
-    "chemistry_type": "",
-    "chemistry_level": "",
-    "grade_level": "",
-    "difficulty_level": "",
+    "chemistry_type": "MCQ – General Chemistry",
+    "chemistry_level": "Basic",
+    "grade_level": "Grade 10",
+    "difficulty_level": "3",
     "note": ""
   },
   {
@@ -253,10 +253,10 @@
     "question_img": "Chemistry/Functional/function_23.png",
     "question_text": "",
     "answer": "W < X < Y < Cu",
-    "chemistry_type": "",
-    "chemistry_level": "",
-    "grade_level": "",
-    "difficulty_level": "",
+    "chemistry_type": "Material Science (Metals)",
+    "chemistry_level": "Intermediate",
+    "grade_level": "Grade 10",
+    "difficulty_level": "3",
     "note": ""
   },
   {
@@ -265,10 +265,10 @@
     "question_img": "Chemistry/Image Input/quality_image_01.png",
     "question_text": "",
     "answer": "B. Mild Steel",
-    "chemistry_type": "",
-    "chemistry_level": "",
+    "chemistry_type": "Material Science (Metals)",
+    "chemistry_level": "Intermediate",
     "grade_level": "Grade 10",
-    "difficulty_level": "",
+    "difficulty_level": "2",
     "note": ""
   },
   {
@@ -276,10 +276,10 @@
     "question_img": "Chemistry/Image Input/quality_image_02.png",
     "question_text": "",
     "answer": "B. Silica",
-    "chemistry_type": "",
-    "chemistry_level": "",
+    "chemistry_type": "Material Science (Non-metals, Silica)",
+    "chemistry_level": "Intermediate",
     "grade_level": "Grade 10",
-    "difficulty_level": "",
+    "difficulty_level": "2",
     "note": ""
   },
   {
@@ -287,10 +287,10 @@
     "question_img": "Chemistry/Image Input/quality_image_03.png",
     "question_text": "",
     "answer": "D. All are correct sentences; D. Cuprite; D. All; D. hematite; B. Reaction in which the same substance is reduced and oxidized",
-    "chemistry_type": "",
-    "chemistry_level": "",
-    "grade_level": "Grade 10",
-    "difficulty_level": "",
+    "chemistry_type": "Minerals / Redox Reactions",
+    "chemistry_level": "Advanced",
+    "grade_level": "Grade 11",
+    "difficulty_level": "4",
     "note": ""
   },
   {
@@ -298,10 +298,10 @@
     "question_img": "Chemistry/Image Input/vertical_image_01.png",
     "question_text": "",
     "answer": "B. W and Y",
-    "chemistry_type": "",
-    "chemistry_level": "",
+    "chemistry_type": "MCQ – Reactivity/Properties",
+    "chemistry_level": "Intermediate",
     "grade_level": "Grade 10",
-    "difficulty_level": "",
+    "difficulty_level": "2",
     "note": ""
   },
   {
@@ -309,10 +309,10 @@
     "question_img": "Chemistry/Multiple questions/multiple_01.png",
     "question_text": "",
     "answer": "4. B; 5. D; 6. A; 7. A",
-    "chemistry_type": "",
-    "chemistry_level": "",
+    "chemistry_type": "MCQ – Multiple Chemistry Topics",
+    "chemistry_level": "Intermediate",
     "grade_level": "Grade 10",
-    "difficulty_level": "",
+    "difficulty_level": "3",
     "note": ""
   }
 ]
