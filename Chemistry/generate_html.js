@@ -550,13 +550,13 @@ const htmlContent = `<!DOCTYPE html>
                 </div>
                 <div class="detail-item">
                   <span class="detail-label">
-                    <i class="fas fa-calculator"></i> chemistry Type:
+                    <i class="fas fa-calculator"></i> Chemistry Type:
                   </span>
                   <span class="detail-value">\${question.chemistry_type || 'Not specified'}</span>
                 </div>
                 <div class="detail-item">
                   <span class="detail-label">
-                    <i class="fas fa-layer-group"></i> chemistry Level:
+                    <i class="fas fa-layer-group"></i> Chemistry Level:
                   </span>
                   <span class="detail-value">\${question.chemistry_level || 'Not specified'}</span>
                 </div>
