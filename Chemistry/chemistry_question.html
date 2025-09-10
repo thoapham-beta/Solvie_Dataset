@@ -686,8 +686,8 @@
     "difficulty_level": "3",
     "note": ""
   }
-]
-;
+];
+
     document.addEventListener('DOMContentLoaded', () => {
       // DOM elements
       const tabButtons = document.querySelectorAll('.tab-btn');
@@ -812,7 +812,7 @@
                   <span class="detail-label">
                     <i class="fas fa-layer-group"></i> Chemistry Level:
                   </span>
-                  <span class="detail-value">" "+ ${question.chemistry_level || 'Not specified'}</span>
+                  <span class="detail-value">${question.chemistry_level || 'Not specified'}</span>
                 </div>
                 <div class="detail-item">
                   <span class="detail-label">
